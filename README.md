@@ -5,7 +5,7 @@ Programming Concepts:
   - Regex
 
 Data Structures:
-  - BFS
+  - Fenwick Tree / Binary Indexed Tree
 
 Programming Language Used:
 - Java
